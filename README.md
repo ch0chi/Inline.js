@@ -4,9 +4,10 @@ Inline.js is a simple yet powerful jquery plugin that makes controlling content 
 ### Version
 1.0
 ###### Future updates:  
-- Add ability to change elements color on the fly
+- Add ability to change elements color on the fly.
 - Add bower and composer installation.
 - Add demo page.
+- Add additional options.
 
 
 ### Getting Started
