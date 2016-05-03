@@ -21,6 +21,7 @@ When calling the inline method, *class_key* defines a unique class that is used 
 $(document).inline({
     class_key : 'edit'
 });
+</script>
 ```
 The unique class must be the same for every element that you want to edit and the *id* must include the elements tag seperated by two *underscores*. The recommended naming convetion is to use to the outer most wrapper as a section definer followed by the elements tag followed by the number of which that element appears in your section.
 ```
